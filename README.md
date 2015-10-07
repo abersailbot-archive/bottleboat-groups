@@ -35,7 +35,8 @@ local copy), you can run:
 
 Team 1 (change me when you have a nicer name)
 ---------------------------------------------
-    The Last Will 
+    The Last Will
+    -Princess Betrayer
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
