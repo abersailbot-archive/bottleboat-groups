@@ -31,7 +31,7 @@ local copy), you can run:
 
 Team 1 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+    The Last Will 
 
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
