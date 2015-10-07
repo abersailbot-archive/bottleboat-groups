@@ -39,4 +39,4 @@ Team 2 (change me when you have a nicer name)
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+  - HMS F(l)ounder
