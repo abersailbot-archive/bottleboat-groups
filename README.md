@@ -46,4 +46,4 @@ Team 2 (Will DOMINATION)
 
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
-  - HMS F(l)ounder
+  -  Michael Whitmore
