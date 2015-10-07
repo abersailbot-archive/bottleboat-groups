@@ -44,16 +44,10 @@ Team 2 (Will DOMINATION)
   - David
   - Joshua Hodges
 
-<<<<<<< HEAD
-Team 3 Team F(l)ounder
----------------------------------------------
-  - James Street (jas70)
-=======
+
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
   -  Michael Whitmore
-<<<<<<< HEAD
->>>>>>> 2d38bb2d37fbfbc752044a47e368c9cfd3fb5315
-=======
-  -	 Tom Gwyrfai Cartwright
->>>>>>> 6edd445c42b00e0af698c007cba53a9a68c2c9c1
+  -  Tom Gwyrfai Cartwright
+  -  Harry
+  -  James Street
