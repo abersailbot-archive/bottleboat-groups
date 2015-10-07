@@ -33,9 +33,10 @@ local copy), you can run:
     $ git push
 
 
-Team 1 (change me when you have a nicer name)
+Team 1 (The Last Will)
 ---------------------------------------------
     The Last Will 
+Will Storey
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
