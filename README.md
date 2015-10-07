@@ -42,6 +42,6 @@ Team 2 (Will DOMINATION)
   - Zachery Harley (zah2)
   -David
 
-Team 3 (change me when you have a nicer name)
+Team 3 (HMS F(l)ounder)
 ---------------------------------------------
   - HMS F(l)ounder
