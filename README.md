@@ -40,7 +40,8 @@ Team 1 (change me when you have a nicer name)
 Team 2 (Will DOMINATION)
 ---------------------------------------------
   - Zachery Harley (zah2)
-  -David
+  - David
+  - JOSHUA HODGES
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
