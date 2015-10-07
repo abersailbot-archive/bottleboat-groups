@@ -5,6 +5,10 @@ To get a local copy of this repository (called "cloning" in git terms), run:
 
     $ git clone https://github.com/abersailbot/bottleboat-groups.git
 
+Now enter that new directory by running:
+
+    $ cd bottleboat-groups
+
 To make changes, edit this file and add your name in your team's section. You
 then need to make git know about your changes. After you have added your name,
 run
@@ -31,11 +35,12 @@ local copy), you can run:
 
 Team 1 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+    The Last Will 
 
-Team 2 (change me when you have a nicer name)
+Team 2 (Will DOMINATION)
 ---------------------------------------------
-  - name
+  - Zachery Harley (zah2)
+  -David
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
