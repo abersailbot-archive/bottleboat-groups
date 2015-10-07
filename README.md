@@ -40,8 +40,10 @@ Will Storey
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
-  -David
+  - Zachery Harley (zah2)
+  - David
+  - Joshua Hodges
 
-Team 3 (change me when you have a nicer name)
+Team 3 (HMS F(l)ounder)
 ---------------------------------------------
-  - name
+  - HMS F(l)ounder
