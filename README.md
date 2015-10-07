@@ -35,9 +35,9 @@ local copy), you can run:
 
 Team 1 (The Last Will)
 ---------------------------------------------
-Will Storey
-    The Last Will
-    -Princess Betrayer
+  - Will 1
+  - Will 2
+  - Princess Betrayer
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
@@ -46,8 +46,10 @@ Team 2 (Will DOMINATION)
   - David
   - Joshua Hodges
 
+
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
   -  Michael Whitmore (msw13)
+  -  James Street (jas70)
   -  Tom Gwyrfai Cartwright (toc4)
   -  Harry Carter (hac33)
