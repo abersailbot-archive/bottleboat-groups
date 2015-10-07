@@ -37,10 +37,18 @@ Team 1 (change me when you have a nicer name)
 ---------------------------------------------
     The Last Will 
 
-Team 2 (change me when you have a nicer name)
+Team 2 (Will DOMINATION)
 ---------------------------------------------
-  - name
+  - Zachery Harley (zah2)
+  - David
+  - Joshua Hodges
 
+<<<<<<< HEAD
 Team 3 Team F(l)ounder
 ---------------------------------------------
   - James Street (jas70)
+=======
+Team 3 (HMS F(l)ounder)
+---------------------------------------------
+  -  Michael Whitmore
+>>>>>>> 2d38bb2d37fbfbc752044a47e368c9cfd3fb5315
