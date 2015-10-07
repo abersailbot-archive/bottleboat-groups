@@ -41,7 +41,7 @@ Team 2 (Will DOMINATION)
 ---------------------------------------------
   - Zachery Harley (zah2)
   - David
-  - JOSHUA HODGES
+  - Joshua Hodges
 
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
