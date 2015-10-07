@@ -39,6 +39,7 @@ Team 1 (change me when you have a nicer name)
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
+  - Robert
   - Zachery Harley (zah2)
   - David
   - Joshua Hodges
@@ -51,4 +52,8 @@ Team 3 Team F(l)ounder
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
   -  Michael Whitmore
+<<<<<<< HEAD
 >>>>>>> 2d38bb2d37fbfbc752044a47e368c9cfd3fb5315
+=======
+  -	 Tom Gwyrfai Cartwright
+>>>>>>> 6edd445c42b00e0af698c007cba53a9a68c2c9c1
