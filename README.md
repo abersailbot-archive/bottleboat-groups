@@ -35,7 +35,7 @@ Team 1 (change me when you have a nicer name)
 
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+  - Robert
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
