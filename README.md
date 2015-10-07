@@ -49,5 +49,5 @@ Team 2 (Will DOMINATION)
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
   -  Michael Whitmore
-  -	 Tom Gwyrfai Cartwright
-  - Harry Carter
+  -  Tom Gwyrfai Cartwright (toc4)
+  -  Harry Carter (hac33)
