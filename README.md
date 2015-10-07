@@ -33,8 +33,9 @@ local copy), you can run:
     $ git push
 
 
-Team 1 (change me when you have a nicer name)
+Team 1 (The Last Will)
 ---------------------------------------------
+Will Storey
     The Last Will
     -Princess Betrayer
 
