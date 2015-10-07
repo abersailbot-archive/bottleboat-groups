@@ -35,8 +35,9 @@ local copy), you can run:
 
 Team 1 (The Last Will)
 ---------------------------------------------
-    The Last Will 
 Will Storey
+    The Last Will
+    -Princess Betrayer
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
@@ -49,4 +50,4 @@ Team 3 (HMS F(l)ounder)
 ---------------------------------------------
   -  Michael Whitmore
   -	 Tom Gwyrfai Cartwright
-  - Harry
+  - Harry Carter
