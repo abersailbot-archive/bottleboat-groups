@@ -43,7 +43,7 @@ Team 2 (Will DOMINATION)
 ---------------------------------------------
   - Robert
   - Zachery Harley (zah2)
-  - David
+  - David Jones
   - Joshua Hodges
 
 
