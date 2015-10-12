@@ -35,16 +35,16 @@ local copy), you can run:
 
 Team 1 (The Last Will)
 ---------------------------------------------
-  - Will 1
-  - Will 2
-  - Princess Betrayer
+  - Will 1		(wic4)
+  - Will 2		(wis15)
+  - Princess Betrayer	(arl13)
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
-  - Robert
-  - Zachery Harley (zah2)
-  - David Jones
-  - Joshua Hodges
+  - Robert		(roo11)
+  - Zachery Harley 	(zah2)
+  - David Jones		(dav8)
+  - Joshua Hodges	(joh55)
 
 
 Team 3 (HMS F(l)ounder)
