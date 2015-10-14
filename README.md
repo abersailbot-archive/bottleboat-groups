@@ -47,6 +47,7 @@ Team 2 (Will DOMINATION)
   - Zachery Harley 	(zah2)
   - David Jones		(dav8)
   - Joshua Hodges	(joh55)
+  - Thomas Naesje   (thn11)
 
 
 Team 3 (HMS F(l)ounder)
