@@ -35,9 +35,11 @@ local copy), you can run:
 
 Team 1 (The Last Will)
 ---------------------------------------------
-  - Will 1		(wic4)
-  - Will 2		(wis15)
-  - Princess Betrayer	(arl13)
+  - Will Chidziva	(wic4)
+  - Will Storey		(wis15)
+  - Ariel Ladegård	(arl13)
+  - Rober Buchan-Terrey (rob27)
+  - Jack Morgan (jam30)
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
@@ -53,3 +55,4 @@ Team 3 (HMS F(l)ounder)
   -  James Street (jas70)
   -  Tom Gwyrfai Cartwright (toc4)
   -  Harry Carter (hac33)
+  -  Lauren (lab26)
