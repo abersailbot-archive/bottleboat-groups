@@ -41,6 +41,8 @@ Team 1 (The Last Will)
   - Rober Buchan-Terrey (rob27)
   - Jack Morgan (jam30)
 
+https://github.com/abersailbot/bottleboat-the-last-will
+
 Team 2 (Will DOMINATION)
 ---------------------------------------------
   - Robert		(roo11)
@@ -48,6 +50,8 @@ Team 2 (Will DOMINATION)
   - David Jones		(dav8)
   - Joshua Hodges	(joh55)
   - Thomas Naesje   (thn11)
+  
+https://github.com/abersailbot/bottleboat-will-domination
 
 
 Team 3 (HMS F(l)ounder)
@@ -57,3 +61,5 @@ Team 3 (HMS F(l)ounder)
   -  Tom Gwyrfai Cartwright (toc4)
   -  Harry Carter (hac33)
   -  Lauren (lab26)
+
+https://github.com/abersailbot/bottleboat-hms-f-l-ounder
