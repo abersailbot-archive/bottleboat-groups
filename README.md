@@ -35,6 +35,7 @@ local copy), you can run:
 
 Team 1 (The Last Will)
 ---------------------------------------------
+  - Mentors: Nick Rostant (ndr2), Einar Dogger (eid8)
   - Will Chidziva	(wic4)
   - Will Storey		(wis15)
   - Ariel Ladegård	(arl13)
@@ -45,7 +46,8 @@ https://github.com/abersailbot/bottleboat-the-last-will
 
 Team 2 (Will DOMINATION)
 ---------------------------------------------
-  - Robert		(roo11)
+  - Mentors: Louis Taylor (lot15), Lizzie Stone(eas12)
+  - Robert	Owen (roo11)
   - Zachery Harley 	(zah2)
   - David Jones		(dav8)
   - Joshua Hodges	(joh55)
@@ -56,10 +58,11 @@ https://github.com/abersailbot/bottleboat-will-domination
 
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
+  -  Mentors: Dan Clark (dac46), Will Hogg(wih6)
   -  Michael Whitmore (msw13)
   -  James Street (jas70)
   -  Tom Gwyrfai Cartwright (toc4)
   -  Harry Carter (hac33)
-  -  Lauren (lab26)
+  -  Lauren Brender (lab26)
 
 https://github.com/abersailbot/bottleboat-hms-f-l-ounder
