@@ -49,7 +49,7 @@ Team 2 (Will DOMINATION)
   - Mentors: Louis Taylor (lot15), Lizzie Stone(eas12)
   - Robert	Owen (roo11)
   - Zachery Harley 	(zah2)
-  - David Jones		(dav8)
+  - David  van Zyl	(dav8)
   - Joshua Hodges	(joh55)
   - Thomas Naesje   (thn11)
   
