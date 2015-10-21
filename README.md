@@ -58,11 +58,12 @@ https://github.com/abersailbot/bottleboat-will-domination
 
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
-  -  Mentors: Dan Clark (dac46), Will Hogg(wih6)
-  -  Michael Whitmore (msw13)
+  -  Mentors: Dan Clark (dac46) 
+  -  Will Hogg(wih6)
   -  James Street (jas70)
   -  Tom Gwyrfai Cartwright (toc4)
   -  Harry Carter (hac33)
   -  Lauren Brender (lab26)
+  -  Michael Whitmore (msw13) - Has now left the group
 
 https://github.com/abersailbot/bottleboat-hms-f-l-ounder
