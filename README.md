@@ -37,13 +37,13 @@ Team 1 (HydroCraft)
 ---------------------------------------------
   - [Mentor]: Einar Dogger (eid8)
   - [Mentor]: Nick Rostant (ndr2)
-  - Ariel Ladegård	(arl13)
+  - [MIA] Ariel Ladegård (arl13)
+  - [MIA] Will Chidziva	 (wic4)
   - Jack Morgan		(jam30)
   - Rober Buchan-Terrey	(rob27)
-  - Will Chidziva	(wic4)
   - Will Storey		(wis15)
 
-https://github.com/abersailbot/bottleboat-the-last-will
+https://github.com/abersailbot/bottleboat-HydroCraft
 
 
 Team 2 (Will DOMINATION)
