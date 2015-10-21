@@ -58,8 +58,7 @@ https://github.com/abersailbot/bottleboat-will-domination
 
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
-  -  Mentors: Dan Clark (dac46) 
-  -  Will Hogg(wih6)
+  -  Mentors: Dan Clark (dac46) Will Hogg(wih6)
   -  James Street (jas70)
   -  Tom Gwyrfai Cartwright (toc4)
   -  Harry Carter (hac33)
