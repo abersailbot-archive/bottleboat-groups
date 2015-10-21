@@ -33,36 +33,40 @@ local copy), you can run:
     $ git push
 
 
-Team 1 (The Last Will)
+Team 1 (HydroCraft)
 ---------------------------------------------
-  - Mentors: Nick Rostant (ndr2), Einar Dogger (eid8)
+  - [Mentor]: Einar Dogger (eid8)
+  - [Mentor]: Nick Rostant (ndr2)
+  - Ariel Ladegård	(arl13)
+  - Jack Morgan		(jam30)
+  - Rober Buchan-Terrey	(rob27)
   - Will Chidziva	(wic4)
   - Will Storey		(wis15)
-  - Ariel Ladegård	(arl13)
-  - Rober Buchan-Terrey (rob27)
-  - Jack Morgan (jam30)
 
 https://github.com/abersailbot/bottleboat-the-last-will
 
+
 Team 2 (Will DOMINATION)
 ---------------------------------------------
-  - Mentors: Louis Taylor (lot15), Lizzie Stone(eas12)
-  - Robert	Owen (roo11)
-  - Zachery Harley 	(zah2)
-  - David  van Zyl	(dav8)
+  - [Mentor]: Lizzie Stone (eas12)
+  - [Mentor]: Louis Taylor (lot15)
+  - David Van Zyl	(dav8)
   - Joshua Hodges	(joh55)
-  - Thomas Naesje   (thn11)
+  - Robert Owen		(roo11)
+  - Thomas Naesje	(thn11)
+  - Zachery Harley 	(zah2)
   
 https://github.com/abersailbot/bottleboat-will-domination
 
 
 Team 3 (HMS F(l)ounder)
 ---------------------------------------------
-  -  Mentors: Dan Clark (dac46) Will Hogg(wih6)
-  -  James Street (jas70)
+  -  [Mentor]: Dan Clark (dac46)
+  -  [Mentor]: Will Hogg (wih6)
+  -  [Left Group] Michael Whitmore (msw13)
+  -  Harry Carter	(hac33)
+  -  James Street 	(jas70)
+  -  Lauren Brender	(lab26)
   -  Tom Gwyrfai Cartwright (toc4)
-  -  Harry Carter (hac33)
-  -  Lauren Brender (lab26)
-  -  Michael Whitmore (msw13) - Has now left the group
 
 https://github.com/abersailbot/bottleboat-hms-f-l-ounder
