@@ -68,5 +68,6 @@ Team 3 (HMS F(l)ounder)
   -  James Street 	(jas70)
   -  Lauren Brender	(lab26)
   -  Tom Gwyrfai Cartwright (toc4)
+  -  Paul Swain (pas28)
 
 https://github.com/abersailbot/bottleboat-hms-f-l-ounder
